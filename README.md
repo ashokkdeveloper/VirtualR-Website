@@ -1,8 +1,39 @@
-# React + Vite
+# VirtualR - Business Website 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Modern responsive business website design made with React and Tailwind CSS.
 
-Currently, two official plugins are available:
+⚠️ **All names, information and assets used are fake and do not represent a real componany.** ⚠️
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Live demo can be found under this [**VirtualR Website**]([https://ashokkdeveloper-virtuarwebsite.netlify.app/)).
+
+## 📸 Preview
+
+![VirtualR Website Preview](https://github.com/user-attachments/assets/b014a584-aea9-45a4-8ac7-d14fb98476e0)
+
+
+
+---
+
+## 📐 Layout Sections
+- Header
+- Hero section
+- Features section
+- Workflow section
+- Pricing section
+- Testimonials section
+- Clients section
+- Footer
+
+---
+
+## 🛠️ Built With
+
+- React.js
+- Tailwind CSS
+- Vite
+
+## Acknowledgments
+- Placeholder assets used for demo purposes only
+
+---
+Feel free to use this template to kickstart your educational project!
