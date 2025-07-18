@@ -35,6 +35,3 @@ Live demo can be found under this [**VirtualR Website**](https://ashokkdeveloper
 
 ## Acknowledgments
 - Placeholder assets used for demo purposes only
-
----
-Feel free to use this template to kickstart your educational project!
